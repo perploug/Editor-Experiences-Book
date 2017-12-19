@@ -12,7 +12,7 @@ It is nothing new that websites built today are **optimized, tested and evaluate
 This book is very much WIP but the overall structure is currently 3 areas:
 
 ### Requirements and planning
-Determining what you will be building and why. Turning functional specs into 
+Determining what you will be building and why. This is all about creating the right spec. Both as a customer and as a developer/agency. Who could you take editor experiences into account when writing a tender? when you write a spec? when you start defining tasks? 
 
 ### Designing and building
 General theory and background on usability and designing for humans. Tools for designing the experience for daily tasks and workflows, with a strong focus on providing simple to use checklists and prototypes for common tasks. 
