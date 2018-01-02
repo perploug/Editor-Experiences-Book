@@ -13,7 +13,7 @@ I **believe** that our current way of working with content editors is **broken**
 ----
 
 ## Structure
-This book is very much WIP but the overall structure is currently 3 areas:
+This book is very much WIP but the overall structure is currently 3 areas a detailed [table of contents is available here](table-of-contents.md)
 
 ### Requirements and planning
 Determining what you will be building and why. This is all about creating the right spec. Both as a customer and as a developer/agency. Who could you take editor experiences into account when writing a tender? when you write a spec? when you start defining tasks? 
