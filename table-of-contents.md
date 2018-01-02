@@ -1,6 +1,6 @@
-### Work in progress table of contents 
+# Work in progress table of contents 
 
-0. Introduction 
+## 1. Introduction 
   - The double-edge sword of content management systems
     - They give you a pre-defined experience out of the box at "zero-cost"
     - You accept this experience as gospel and do not attempt to question or improve it
@@ -20,7 +20,7 @@
     - freedom versus price and consistency
 
 
-1. Requirements and planning
+## 2. Requirements and planning
   - How far are you?
     - Already have a CMS picked? 
     - How much do you want to invest? 
@@ -39,7 +39,7 @@
     - Know what your system should be functionally capable of
     - Know how your ideal user flows should work
 
-2. Designing and building
+## 3. Designing and building
   - 2 areas to design and build: flows and editors
     - A flow is the process of getting a task completed
     - An editor is the UI of which a editor uses to enter, validate and preview content
@@ -52,26 +52,27 @@
     - best practice examples from existing systems
     - plugins and custom built solutions to common patterns
 
-3. Testing and evaluating
+## 4. Testing and evaluating
   - Tony Fadell ted talk reference on fruit stickers - "the first secret of design is noticing"
+  - Tools for simple DIY testing - everyone can test UX
   - DMAIC
   - GOMS: 
     - KLM GOMS process
     - CPM GOMS
     - Simple GOMS?
   - Heuristic Evaluation
-
+  
   - Resources:
     - http://cogulator.io/primer.html
     - https://www.ted.com/talks/tony_fadell_the_first_secret_of_design_is_noticing
     - http://web.eecs.umich.edu/~kieras/goms.html
     - https://measuringu.com/evaluating-ux/
 
-4. Conclusion and wrap-up
-  - 
+  
+## 5. Conclusion and wrap-up
 
 
-5. Interview plan: 
+## Interview plan: 
   - UX Expert interview
   - Independent CMS analyst interview
   - Customer Interview
