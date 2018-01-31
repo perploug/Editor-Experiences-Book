@@ -1,4 +1,4 @@
-# Editor Experiences book project
+# Effective Content Management
 
 It is nothing new that websites built today are **optimized, tested and evaluated** to improve the user experience. We A/B split test, use qualitative and quantative user research, run check-out optimizations, use AI and machine-learning to create highly personalized and effective customer experiences. As professionals we do all these things to **increase the value and performance of our web-presence**, there is simply a strong economic incentive to do so.
 
@@ -9,6 +9,8 @@ It is nothing new that websites built today are **optimized, tested and evaluate
 **Atleast, this is my thesis**: Optimizing for editor happiness will lead to more effective teams, happier clients, higher content quality and ultimately a better bottomline.
 
 I **believe** that our current way of working with content editors is **broken**. Agencies, Customers and Developers do not optimize for editor happines, and most software vendors does not have it as part of their competitive edge.
+
+Therefore the title **Effective Content Management** - when you focus on building something that is effective to use, your users can get things done, fast and feel confident and accomplished - and isn't that really what we want them to feel?
 
 ----
 
